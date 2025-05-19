@@ -1,1 +1,1 @@
-# Computer_graphics_lab3
+# Ray Tracing
